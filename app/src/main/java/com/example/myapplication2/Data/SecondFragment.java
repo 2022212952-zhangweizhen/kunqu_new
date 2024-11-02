@@ -1,13 +1,13 @@
-package com.example.myapplication2;
+package com.example.myapplication2.Data;
 
 import android.os.Bundle;
-
-import androidx.fragment.app.Fragment;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import androidx.fragment.app.Fragment;
+
+import com.example.myapplication2.R;
 
 public class SecondFragment extends Fragment {
 
