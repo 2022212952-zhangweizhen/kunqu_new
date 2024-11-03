@@ -2,7 +2,7 @@
 
     //cyx_string
     <string name="prince_sub">起</string>
-    <string name="app_name">My Application2</string>
+    <string name="app_name">昆曲簿·</string>
 
     <string name="navigation1">首页</string>
     <string name="navigation2">知识</string>
@@ -50,5 +50,6 @@
     <string name="diary01">第一天打卡！很喜欢柳梦梅和沈丽娘的故事，真想亲身体验一场!</string>
     <string name="day0102">因梦成戏</string>
     <string name="day0101">因情成梦</string>
-    
+    <string name="bt_calendar">bt_calendar\n</string>
+
 </resources>
